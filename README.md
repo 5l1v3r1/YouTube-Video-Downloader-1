@@ -23,6 +23,6 @@ Run the .py file
 ```sh
 $ python3 main.py
 ```
-##### Thank you, Please open Issues if you get errors and also tell me through pull requests on what update I should bring 
+##### Thank you, Please open Issues if you get errors and also tell me through pull requests on what updates I should bring 
 
 
