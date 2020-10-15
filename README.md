@@ -2,7 +2,7 @@
 TYTVD: The YouTube Video Downloader is a powerful CLI tool to download MP4 and also convert it to MP3 based on the user's choice.
 
 ### Disclaimer:
-#### I am not responsible for your shit. Piracy and Distribution of copyrighted materials is strictly illegal.
+#### This program was created for educational purposes only. Please respect the copyright of any videos you download. The creator of this program will not be held liable for any copyright violations caused by the usage of this program.
 
 ## Installation
 Cloning the repository
