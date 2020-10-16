@@ -1,5 +1,7 @@
 # Introduction
-TYTVD: The YouTube Video Downloader is a powerful CLI tool to download MP4 and also convert it to MP3 based on the user's choice.
+YouTube Video Downloader is a CLI tool to download MP4 and also convert it to MP3 based on the user's choice.
+
+There is also a better and updated version of this tool made by me. Get it from [here](https://github.com/5HR3D/TYTD)
 
 ### Disclaimer:
 #### This program was created for educational purposes only. Please respect the copyright of any videos you download. The creator of this program will not be held liable for any copyright violations caused by the usage of this program.
@@ -7,11 +9,11 @@ TYTVD: The YouTube Video Downloader is a powerful CLI tool to download MP4 and a
 ## Installation
 Cloning the repository
 ```sh
-$ git clone https://github.com/5HR3D/TYTVD.git
+$ git clone https://github.com/5HR3D/Youtube-Video-Downloader.git
 ```
 Open directory
 ```sh
-$ cd TYTVD
+$ cd Youtube-Video-Downloader
 ```
 Installing the required modules
 ```sh
