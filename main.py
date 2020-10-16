@@ -11,41 +11,6 @@ import time
 from moviepy.editor import *
 from pytube import YouTube
 
-#intro
-print('''\033[1;31m
-
-████████ ██    ██ ████████ ██    ██ ██████  
-   ██     ██  ██     ██    ██    ██ ██   ██ 
-   ██      ████      ██    ██    ██ ██   ██ 
-   ██       ██       ██     ██  ██  ██   ██ 
-   ██       ██       ██      ████   ██████  \033[1;m
-                             
-     The YT Video Downloader: Made by 5HR3D                                           
-                                            
-''')
-def slowprint(s):
-    for c in s + '\n' :
-        sys.stdout.write(c)
-        sys.stdout.flush()
-        time.sleep(10. / 100)
-slowprint("[!] Starting... ")
-time.sleep(0)
-os.system('clear')
-
-print('''
-~|~|_ _   \ /~|~  | /. | _     |\     ,_|     | _   
- | ||(/_   |  |   |/ |(|(/_()  |/()LL||||()(|(|(/_|`
-                               \033[37mMade with \033[91m<3\033[37m By 5HR3D\033[1;m
-''')                     
-print ('\033[1;31m----------------------------------------\033[1;m')
-print ('''[!] Disclaimer:\n
-	I may not be held responsible for your shit.\n
-	Distribution of Copyright material is illegal.''')
-print ('\033[1;31m----------------------------------------\033[1;m\n')
-
-
-
-
 # asking user for link
 link = input("Enter YouTube video link :  ")
 myvideo = YouTube(link)
